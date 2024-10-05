@@ -39,4 +39,4 @@ class App:
         self.page.add(layout)
 
 if __name__ == '__main__':
-    ft.app(target=App,assets_dir="assets")
+    ft.app(target=App,assets_dir="assets",view=ft.AppView.WEB_BROWSER)
