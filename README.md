@@ -121,8 +121,4 @@ Copiar código
 
 Isso deverá te ajudar a configurar e personalizar o seu portfólio de forma fácil. Se tiver mais dúvidas ou quiser expandir o projeto, sinta-se à vontade para perguntar!
 
-
-
-
-
-Você disse:
+💬 Como Contribuir Faça um fork do repositório. Crie uma nova branch (git checkout -b minha-contribuicao). Faça suas modificações e commit. Push para a branch (git push origin minha-contribuicao). Abra uma pull request. 📚 Mais Informações 🎓 Curso FLET 360 Python: Aprofunde-se no Python e na construção de interfaces gráficas com o Flet! 👉 https://go.hotmart.com/J91353466S?dp=1
