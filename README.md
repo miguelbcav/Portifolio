@@ -103,11 +103,6 @@ portfolio-flet/
 📝 Licença
 Este projeto está licenciado sob a MIT License.
 
-Este README.md fornece uma explicação clara sobre como rodar o portfólio, detalha o funcionamento do layout responsivo, e também oferece uma estrutura para personalizar a interface de acordo com suas necessidades.
-
-markdown
-Copiar código
-
 ### Explicação das partes do código
 
 - **Classe `AppTheme`**: Define o tema escuro da aplicação, com cores personalizadas para o fundo, texto e superfícies.
